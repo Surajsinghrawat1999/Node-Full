@@ -1,0 +1,22 @@
+{
+  "name": "node-full",
+  "version": "1.0.0",
+  "description": "this contains full tutorial of node.js from basic to advance",
+  "main": "nine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surajsinghrawat1999/Node-Full.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Surajsinghrawat1999/Node-Full/issues"
+  },
+  "homepage": "https://github.com/Surajsinghrawat1999/Node-Full#readme",
+  "dependencies": {
+    "node-console-colors": "^1.1.5"
+  }
+}
